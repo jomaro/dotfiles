@@ -1,0 +1,1 @@
+/home/jomaro/.asdf/completions/asdf.fish
